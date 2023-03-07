@@ -1,0 +1,25 @@
+
+.banner{
+    background-image:linear-gradient(to right, rgba(21, 21, 22, 0.7), rgba(21, 21, 22, 0.7)) ,url('../../img//7.jpg');
+    background-size: cover;
+    height: 70vh;
+}
+.banner-content{
+    position: relative;
+    top: 40%;
+}
+.banner-content h1{
+    font-size: 3rem;
+    color: whitesmoke;
+}
+.banner-content h5{
+    color: whitesmoke;
+}
+.banner-content button{
+    padding: 15px 20px;
+    background-color: aqua;
+    border: aqua;
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+}

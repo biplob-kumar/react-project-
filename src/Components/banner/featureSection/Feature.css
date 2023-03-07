@@ -1,0 +1,24 @@
+.feature-header{
+    padding: 40px 0;
+}
+.feature-header h2 {
+    color: rgb(197, 200, 202);
+    font-size: 2.5rem;
+}
+.feature-header p {}
+
+.feature{
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1rem;
+}
+
+.feature-main{
+    padding: 50px 0;
+background-color: #f8f8f8;
+}
+.feature-content p{
+margin-left: auto0;
+}
+
